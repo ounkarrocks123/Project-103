@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(13, 219, 106)
+}
+
+h1{
+    width:100%;
+    padding:10px;
+    }
+
+.name_of_members{
+    color:blueviolet;
+    font-size: 20px;
+}
+
+.heading{
+    font-size:30px;
+}
+
+#camera, #snapshot{
+    border:2px dashed white;
+    width: 350px;
+    height:300px;
+}
